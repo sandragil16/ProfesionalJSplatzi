@@ -1,0 +1,17 @@
+{
+  "name": "platzi-media-player",
+  "version": "1.0.0",
+  "description": "Proyecto del Curso Profesional de JavaScript de la Escuela de JavaScript de Platzi.",
+  "license": "MIT",
+  "author": "Sandra Claudia Gil Mendoza <scgmendozaprivate16@gmail.com>",
+  "keywords": [
+    "platzi"
+  ],
+  "scripts": {
+    "start": "parcel index.html ejercicios/index.html ejercicios/**/*.html"
+  },
+  "devDependencies": {},
+  "browserslist": [
+    "last 1 Chrome version"
+  ]
+}
